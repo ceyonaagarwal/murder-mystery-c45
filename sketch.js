@@ -164,7 +164,7 @@ function draw(){
             john.visible = false;
             book.visible = false;
             forensic.visible = true;
-    }
+        }
 
     drawSprites();
 
